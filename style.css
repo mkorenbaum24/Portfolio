@@ -1,0 +1,12 @@
+#clown{
+    height: auto;
+    width:200px;
+}
+#nugs{
+    height: 50%;
+    width: 50%;
+}
+
+html{
+    background-color: firebrick;
+}
