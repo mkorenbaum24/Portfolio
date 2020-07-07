@@ -10,3 +10,7 @@
 html{
     background-color: firebrick;
 }
+#about{
+    height: auto;
+    width: 300px;
+}
